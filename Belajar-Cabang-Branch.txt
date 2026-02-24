@@ -1,1 +1,3 @@
 Ini adalah file cabang dari branch
+konflik 1
+konflik 2
