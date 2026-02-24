@@ -1,11 +1,9 @@
 Ini adalah file cabang dari branch
 
 - konflik merge
-  ^contoh0
   ^contoh1
   ^contoh2
 
-- sudah teratasi
 - cara mengatasi
   ^cara1
   ^cara2
