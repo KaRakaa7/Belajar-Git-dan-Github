@@ -1,1 +1,9 @@
 Ini adalah file cabang dari branch
+
+- konflik merge
+  ^contoh1
+  ^contoh2
+
+- cara mengatasi
+  ^cara1
+  ^cara2
