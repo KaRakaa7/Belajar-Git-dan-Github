@@ -1,3 +1,5 @@
 Ini adalah file cabang dari branch
+
+contoh konflik:
 konflik 1
 konflik 2
